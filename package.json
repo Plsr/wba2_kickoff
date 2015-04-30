@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Plsr/wba2_kickoff/issues"
   },
-  "homepage": "https://github.com/Plsr/wba2_kickoff"
+  "homepage": "https://github.com/Plsr/wba2_kickoff",
+  "dependencies": {
+    "chalk": "~1.0.0"
+  }
 }
